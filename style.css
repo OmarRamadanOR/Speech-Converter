@@ -32,6 +32,7 @@ body{
     outline: none;
     font-size: 20px;
     caret-color: #333;
+    font-family: sans serif;
 }
 .textarea::placeholder{
     color: #777;
